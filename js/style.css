@@ -1,4 +1,4 @@
-body{
+.body{
  
     text-align: center;
     background-color: #f2f2f2;
@@ -29,7 +29,20 @@ body{
 }
 
 .p{
+
     font-size: medium;
+}
+
+.guesses {
+    color: #555;
+}
+
+.lastResult {
+    font-weight: bold;
+}
+
+.lowOrHi {
+    font-weight: bold;
 }
 
 
