@@ -34,12 +34,15 @@
 }
 
 .guesses {
+    
     color: #555;
 }
 
 .lastResult {
+
     font-weight: bold;
 }
+
 
 .lowOrHi {
     font-weight: bold;
